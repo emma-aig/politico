@@ -1,7 +1,7 @@
 html, body{
     height: 100%;
     margin: 0;
-    color: #585858;
+    color: #585858;  
 }
 body{
     background-color: rgb(241, 241, 241);
@@ -16,9 +16,7 @@ body{
     width: 100vw;
     height: 100vh; 
     position: fixed;
-    z-index: 1;
-    /* opacity: .9; */
-    /* transition: background 0.2s linear 0.3s; */
+    z-index: 1; 
 
 }
 .landingCaptionPicture{ 
